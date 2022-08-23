@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @mPhnatom
-- 👀 I’m interested about computers and frontend
-- 🌱 I’m currently learning js and c++
+- 👀 I’m interested about computers
+- I know python,javascript,c++ and little bit c# and php,mysql
+
 
 <!---
 mPhnatom/mPhnatom is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
